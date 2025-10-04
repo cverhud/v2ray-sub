@@ -1,11 +1,8 @@
 vless://43af7dfa-a625-45ec-af55-4c807b72b834@91.107.208.24:8080?path=%2FPayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop%3Fed%3D2056&security=none&encryption=none&host=91.107.208.24&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%205
 vless://6392be67-c360-4dc9-d243-d1352c6abafc@3.72.2.163:42258?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%204
 vless://d05b04af-321c-4bd1-d077-3b18fac7e8a7@91.108.248.6:15985?security=none&encryption=none&host=quic.cloud&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%201
-vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.25.35.227:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#%F0%9F%87%A9%F0%9F%87%AA%20Cloudflare%20Warp
 vmess://eyJhZGQiOiJzZXJrYXQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhIEZhc3QiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIzOC4xODAuMjEuODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InF1aWMuY2xvdWQiLCJpZCI6IjBjMDAwYmFmLTZiMTgtNGU2YS1kM2NiLTU1OWZkYTY5OTViYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiNDU1NTQiLCJwcyI6IvCfh67wn4eqIElyZWxhbmQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%202
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 vless://908e8778-5dbe-4f58-bb4b-5fe39e149ad1@5.189.221.162:8443?path=%2F&security=tls&encryption=none&host=p52ll.qwepsvip.top&fp=chrome&type=ws&sni=p52ll.qwepsvip.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%202
 vless://a8b3aef3-2dbd-4b76-dddb-83c21a9d783c@91.107.244.163:42407?security=none&encryption=none&host=quic.cloud&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
