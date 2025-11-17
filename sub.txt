@@ -5,5 +5,5 @@ vless://37c17606-565f-4559-b9f5-3af69d0d5c4d@twilight-tree-dd5b.freefirebatl70.w
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 vmess://eyJhZGQiOiIzOC4xODAuMjEuODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InF1aWMuY2xvdWQiLCJpZCI6IjBjMDAwYmFmLTZiMTgtNGU2YS1kM2NiLTU1OWZkYTY5OTViYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiNDU1NTQiLCJwcyI6IvCfh67wn4eqIElyZWxhbmQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://908e8778-5dbe-4f58-bb4b-5fe39e149ad1@5.189.221.162:8443?path=%2F&security=tls&encryption=none&host=p52ll.qwepsvip.top&fp=chrome&type=ws&sni=p52ll.qwepsvip.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%202
+[PL] vless://908e8778-5dbe-4f58-bb4b-5fe39e149ad1@5.189.221.162:8443?path=%2F&security=tls&encryption=none&host=p52ll.qwepsvip.top&fp=chrome&type=ws&sni=p52ll.qwepsvip.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%202
 vless://bcccdd9c-6630-44fd-f2e7-26353ccdb91e@5.78.60.170:45325?security=none&encryption=none&host=quic.cloud&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B2%20USA%201
