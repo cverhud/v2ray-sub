@@ -12,3 +12,5 @@
 [DE] vless://37c17606-565f-4559-b9f5-3af69d0d5c4d@twilight-tree-dd5b.freefirebatl70.workers.dev:443?path=ws&security=tls&encryption=none&host=twilight-tree-dd5b.freefirebatl70.workers.dev&fp=chrome&type=ws&sni=twilight-tree-dd5b.freefirebatl70.workers.dev#Germany%202
 [FI] vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=none&encryption=none&host=quic.cloud&type=ws#Finland
 [PL] vless://908e8778-5dbe-4f58-bb4b-5fe39e149ad1@5.189.221.162:8443?path=%2F&security=tls&encryption=none&host=p52ll.qwepsvip.top&fp=chrome&type=ws&sni=p52ll.qwepsvip.top#Poland
+[US] vmess://eyJhZGQiOiIzOC4xNzUuMjA3Ljg1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJlZmQ0Y2I2NC1kZjhlLTRhMzktYjhjNi0xMjQ2ZDMyZWM0YzkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM0Njg2IiwicHMiOiJVbml0ZWQgU3RhdGVzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+[AU] vless://4656923a-8ef8-49ea-b343-6c6387357e43@3.25.210.105:22875?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Australia%202
