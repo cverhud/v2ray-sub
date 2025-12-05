@@ -4,7 +4,6 @@
 [TR] vless://c69d578b-4b75-4cb3-c5d8-0c86ca2e6fc5@193.228.1.61:4005?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Turkey
 [FR] vless://9662f032-4d1e-4843-a9d2-f109d5bd0003@45.67.139.202:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#France%202
 [SE] vless://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#Sweden
-[DE] vless://71d5d46d-4133-4fd9-bbab-e8cd9838a4f3@91.107.208.24:8080?path=%2FPayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop%3Fed%3D2056&security=none&encryption=none&host=91.107.208.24&type=ws#Germany%205
 [DE] vless://77652023-566c-4091-dc63-b33207bd4ffe@193.142.41.179:443?security=reality&encryption=none&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&host=speedtest.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=77652023.com#Germany%201
 [SE] vmess://eyJhZGQiOiI2NS4yMC4xMTMuMTAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiIzOWYyNWM5NC0zYTdkLTQ0NzUtYWZlNi1hYzI4YzMzNmRjNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM3MzQ3IiwicHMiOiJTd2VkZW4gMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 [NL] vless://630edb99-7626-4ae9-bbea-ae0cd6eeb7ae@156.241.0.210:15967?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Netherlands%202
