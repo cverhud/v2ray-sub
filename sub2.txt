@@ -1,3 +1,5 @@
+[SE] vless://2356df17-ff1d-4f03-b8dd-9136fe5c05ed@85.9.98.58:8080?path=%2F&security=none&encryption=none&type=ws#Sweden%202
+[DE] vless://d5398dcd-b198-4100-c405-d509a56ef896@ri2.soft98c.shop:31046?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Germany%20-%20Speed
 [FR] vless://9662f032-4d1e-4843-a9d2-f109d5bd0003@45.67.139.202:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#France%202
 [DE] vless://e632e3e9-65d0-467a-82fc-7fe5fe7c1d66@185.221.239.84:21883?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Germany%205
 [FI] vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=none&encryption=none&host=quic.cloud&type=ws#Finland
