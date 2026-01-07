@@ -5,7 +5,6 @@
 [FI] vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=none&encryption=none&host=quic.cloud&type=ws#Finland
 [PL] vless://908e8778-5dbe-4f58-bb4b-5fe39e149ad1@5.189.221.162:8443?path=%2F&security=tls&encryption=none&host=p52ll.qwepsvip.top&fp=chrome&type=ws&sni=p52ll.qwepsvip.top#Poland
 [FR] vless://f59962fa-0f26-45ad-b52a-6adbd181b801@veta.nexustechmobile.com:16322?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#France%203
-[DE] vless://9f0f79b5-b072-4c14-ab84-a636d7fe98cc@193.142.41.176:443?security=reality&encryption=none&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&host=speedtest.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=9f0f79b5.com#Germany%201
 [SE] vless://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#Sweden
 [DE] vmess://eyJhZGQiOiI0OS4xMy4xOTguNDAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjdhMmVjZTZiLTBhMmYtNGM0ZC1lZmUyLWVjYjZjZWQ0Y2JmYyIsIm5ldCI6IndzIiwicGF0aCI6InJheTU3MjRhYTciLCJwb3J0IjoiNTM5MDUiLCJwcyI6Ikdlcm1hbnkgNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 [DE] vless://fe2668e7-6107-464a-c2f8-ca2ebea9a80d@23.27.124.226:54719?path=%2Ffe2668e7&security=none&encryption=none&host=speedtest.net&type=ws#Germany%204
