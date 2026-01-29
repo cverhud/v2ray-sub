@@ -1,3 +1,4 @@
+[DE] vmess://eyJhZGQiOiI5NC4xMDEuMTkxLjIwMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoienVsYS5pciIsImlkIjoiNTJmYTIzZmYtODhlYS00M2FlLTgxMjAtNzQ5OGVjNDYxZjI3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4NiIsInBzIjoiR2VybWFueSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 [SG] vless://14eb072c-592e-4c34-b488-74b9a8d1f62e@47.245.103.60:12338?security=none&encryption=none&host=excoino.com&headerType=none&type=tcp#Singapore%206
 [HK] vless://4e1e470a-295b-4239-ef06-f26e26b56f28@47.82.87.196:20780?security=none&encryption=none&headerType=none&type=tcp#Hong%20Kong
 [SG] vless://75f19c5b-50a4-4a38-83e8-b735b7bf63f6@43.160.242.103:22650?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%20fast
