@@ -1,5 +1,6 @@
 [SG] vless://14eb072c-592e-4c34-b488-74b9a8d1f62e@47.245.103.60:12338?security=none&encryption=none&host=excoino.com&headerType=none&type=tcp#Singapore%206
 [HK] vless://4e1e470a-295b-4239-ef06-f26e26b56f28@47.82.87.196:20780?security=none&encryption=none&headerType=none&type=tcp#Hong%20Kong
+[SG] vless://75f19c5b-50a4-4a38-83e8-b735b7bf63f6@43.160.242.103:22650?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%20fast
 [SG] vless://11d4f2c2-26d6-4e2f-cede-3ced53c8feb9@47.82.2.59:28284?security=none&encryption=none&headerType=none&type=tcp#Singapore%207
 [SG] vless://25d45366-ed01-4406-80f7-27b41c554a0b@47.82.7.86:34867?security=none&encryption=none&host=excoino.com&headerType=none&type=tcp#Singapore%201
 [SG] vless://a449ee39-8bbc-43c6-a7f3-41eaba319456@47.236.152.46:31980?security=&encryption=none&headerType=none&type=tcp#Singapore%202
