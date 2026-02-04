@@ -2,7 +2,6 @@
 [SG] vless://c9503779-7c75-4c3c-9a33-4029d569cd51@43.156.112.77:443?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%209
 [SG] vless://9a4484a8-96a8-4f03-d627-3de4d5873b24@8.222.197.51:49649?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%208
 [SG] vless://6846e436-acf8-46c7-cf83-36d4d398b0ef@47.82.0.155:40821?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%207
-[NL] vless://6072285f-4b73-4af8-b74b-30918e2e2f04@nl-users.chamehdan.ir:8080?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Netherlands
 [SG] vless://14eb072c-592e-4c34-b488-74b9a8d1f62e@47.245.103.60:12338?security=none&encryption=none&host=excoino.com&headerType=none&type=tcp#Singapore%206
 [HK] vless://4e1e470a-295b-4239-ef06-f26e26b56f28@47.82.87.196:20780?security=none&encryption=none&headerType=none&type=tcp#Hong%20Kong
 [SG] vless://75f19c5b-50a4-4a38-83e8-b735b7bf63f6@43.160.242.103:22650?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%20fast
