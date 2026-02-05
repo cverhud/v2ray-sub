@@ -1,3 +1,4 @@
+[DE] vless://b853fbd7-15b8-4355-eb46-03931a04dc0f@azinsite.amir777.sbs:14283?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Germany%204
 [SG] vless://c9503779-7c75-4c3c-9a33-4029d569cd51@43.156.112.77:443?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%209
 [SG] vless://9a4484a8-96a8-4f03-d627-3de4d5873b24@8.222.197.51:49649?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%208
 [SG] vless://6846e436-acf8-46c7-cf83-36d4d398b0ef@47.82.0.155:40821?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%207
