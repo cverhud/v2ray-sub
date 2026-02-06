@@ -1,4 +1,5 @@
 [SG] vless://c9503779-7c75-4c3c-9a33-4029d569cd51@43.156.112.77:443?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%209
+[SG] vless://1bed5aa3-40f0-4838-a079-a0fb6c9f1302@47.79.237.36:43686?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%2010
 [DE] vmess://eyJhZGQiOiI4LjIxMS4xNS4xNTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjY3NjVmOWIzLTQyYTItNGM2Zi05MjM4LTFhZjVkZTdiMTRlOSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDg4MDYiLCJwcyI6Ikdlcm1hbnkgMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 [SG] vless://9a4484a8-96a8-4f03-d627-3de4d5873b24@8.222.197.51:49649?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%208
 [SG] vless://6846e436-acf8-46c7-cf83-36d4d398b0ef@47.82.0.155:40821?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#Singapore%207
